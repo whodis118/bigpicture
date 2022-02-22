@@ -1,5 +1,7 @@
 # Tailwind Traders - Sample Reference Applications
 
+Adding a line to test out my new pull request policy
+
 We are happy to announce the release of Tailwind Traders. A fictitious retail company showcasing the future of intelligent application experiences. These reference apps are all are powered by the Azure cloud, built with best-in-class tools, and made smarter through data and AI.
 
 ![Tailwind Traders Logo](Documents/Images/Logo.png)
